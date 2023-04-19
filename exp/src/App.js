@@ -1,9 +1,9 @@
 
-import { Expense } from "./expense";
+import { Expenseitem } from "./components/expenseitem";
 function App() {
   return (
     <div className="App">
-     <Expense/>
+  <Expenseitem/>
     
     </div>
   );
